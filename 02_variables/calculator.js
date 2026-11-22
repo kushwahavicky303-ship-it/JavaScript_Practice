@@ -1,0 +1,12 @@
+let a =10;
+let b=20;
+const addition = a+b;
+const substraction = a-b;
+const multiplication = a*b;
+const division = a/b;
+const remainder = a%b;
+console.log("addition is",addition);
+console.log("substraction is",substraction);
+console.log("multiplication is",multiplication);
+console.log("division is",division);
+console.log("remainder is",remainder);
