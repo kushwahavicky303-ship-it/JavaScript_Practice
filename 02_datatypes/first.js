@@ -1,0 +1,10 @@
+let name = "aditya";
+let age = 22;
+let isStudent = true;
+let address = null;
+let phoneNumber;
+console.log("name is", name);
+console.log("age is", age);
+console.log("isStudent is", isStudent);
+console.log("address is", address);
+console.log("phoneNumber is", phoneNumber);
