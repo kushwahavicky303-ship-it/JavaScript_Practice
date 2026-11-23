@@ -1,0 +1,12 @@
+let marks ="85";
+let age = "22";
+let price = "150.50";
+let updatedmarks = Number(marks);
+console.log(typeof updatedmarks);
+console.log(updatedmarks);
+let updatedage = Number(age);
+console.log(typeof updatedage);
+console.log(updatedage);
+let updatedprice = Number(price);
+console.log(typeof updatedprice);
+console.log(updatedprice);
